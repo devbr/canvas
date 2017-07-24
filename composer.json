@@ -1,7 +1,7 @@
 {
     "name": "devbr/canvas",
     "description": "Image creator",
-    "keywords": ["image","png",""jpg,"creator"],
+    "keywords": ["image","png","jpg","creator"],
     "license": "MIT",
     "type": "library",
     "homepage": "http://dbrasil.tk/devbr/",
@@ -14,8 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Devbr\\": "",
-            "Config\\":"Config/"
+            "Devbr\\": ""
         }
     }
 }
